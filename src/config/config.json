@@ -1,0 +1,15 @@
+{
+    "English":{
+        "welcometext":"hi welcome",
+        "greeting":"hope! you are doing well",
+        "wishes":"give your best",
+        "message":" there are <userCount> users"
+
+    },
+    "Hindi":{
+        "welcometext":"नमस्ते यहाँ आपका स्वागत है",
+        "greeting":"नमस्ते यहाँ आपका स्वागत है",
+        "wishes":"अपना बेहतरीन प्रदर्शन करो",
+        "message":"यहां <userCount> उपयोगकर्ता हैं"
+    }
+}
